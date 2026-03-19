@@ -1,7 +1,7 @@
-# Heading Hello, I'm Yasmin Kamal-Deen 👋🏾
+# Hello, I'm Yasmin Kamal-Deen 👋🏾
 
-## Heading 2 About Me:
-* item Master's student at studying AI/ML at [University of Birmingham](https://www.birmingham.ac.uk/), United Kingdom 
+## About Me:
+* Master's student at studying AI/ML at [University of Birmingham](https://www.birmingham.ac.uk/), United Kingdom 
 
 
 - 👀 I’m interested in learning programming languages, music, fashion.
