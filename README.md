@@ -1,6 +1,6 @@
 # Hello, I'm Yasmin Kamal-Deen 👋🏾
 
-## About Me:
+### About Me:
 * Master's student at studying AI/ML at [University of Birmingham](https://www.birmingham.ac.uk/), United Kingdom 
 
 
